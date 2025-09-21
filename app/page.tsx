@@ -61,12 +61,7 @@ export default function FRAAtlas() {
               </div>
             </div>
             <div className="flex items-center space-x-2">
-              <Badge
-                variant="outline"
-                className="bg-emerald-50 text-emerald-700 border-emerald-200"
-              >
-                Prototype v1.0
-              </Badge>
+              
             </div>
           </div>
         </div>
